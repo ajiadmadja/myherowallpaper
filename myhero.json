@@ -156,5 +156,23 @@
 		"wallpaper_site_name":"alphacoders",
 		"wallpaper_site_url":"http://alphacoders.com",
 		"wallpaper_url":"https://initiate.alphacoders.com/images/941/stretched-1600-900-941342.png?5758"
-	}
+	},
+	{	"wallpaper_index":"24",
+		"wallpaper_name":"Cheers",
+		"wallpaper_site_name":"zerochan",
+		"wallpaper_site_url":"http://zerochan.net",
+		"wallpaper_url":"https://static.zerochan.net/Boku.no.Hero.Academia.full.1950285.jpg"
+	},
+	{	"wallpaper_index":"25",
+		"wallpaper_name":"Fans All Might Rival!",
+		"wallpaper_site_name":"zerochan",
+		"wallpaper_site_url":"http://zerochan.net",
+		"wallpaper_url":"https://static.zerochan.net/Boku.no.Hero.Academia.full.2000270.jpg"
+	},
+	{	"wallpaper_index":"26",
+		"wallpaper_name":"Sensei 3",
+		"wallpaper_site_name":"zerochan",
+		"wallpaper_site_url":"http://zerochan.net",
+		"wallpaper_url":"https://static.zerochan.net/Boku.no.Hero.Academia.full.2139133.jpg"
+	},
 ]
